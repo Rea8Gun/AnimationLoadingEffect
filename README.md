@@ -1,2 +1,2 @@
 # AnimationLoadingEffect
-Animation Loading Effect HTML and CSS
+Animation Loading Effect using HTML and CSS only
